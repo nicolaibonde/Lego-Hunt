@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Sticker" size="0.100000 0.100000" />
+    <ImageTarget name="marker" size="0.100000 0.100000" />
+    <ImageTarget name="qr3" size="0.100000 0.100000" />
+    <ImageTarget name="qr2" size="0.100000 0.104106" />
+    <ImageTarget name="mini_shark" size="0.100000 0.109533" />
+    <ImageTarget name="mini_pirate" size="0.100000 0.109533" />
+    <ImageTarget name="mini_egypt" size="0.100000 0.109533" />
+    <ImageTarget name="mini_dog" size="0.090000 0.098579" />
+  </Tracking>
+</QCARConfig>

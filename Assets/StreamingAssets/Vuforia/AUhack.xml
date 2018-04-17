@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mini_vampire" size="0.100000 0.109885" />
+    <ImageTarget name="mini_police" size="0.100000 0.109429" />
+    <ImageTarget name="mini_theif" size="0.100000 0.098409" />
+    <ImageTarget name="mini_crippel" size="0.100000 0.100832" />
+    <ImageTarget name="mini_shark" size="0.100000 0.109533" />
+    <ImageTarget name="mini_egypt" size="0.100000 0.109533" />
+    <ImageTarget name="mini_dog" size="0.100000 0.109533" />
+    <ImageTarget name="mini_pirate" size="0.100000 0.109533" />
+    <ImageTarget name="AUHackSticker" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
